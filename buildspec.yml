@@ -17,6 +17,6 @@ phases:
 
 artifacts:
  files:
-  -file1.txt
+  file1.txt
 
  name: myartifacts -$(date)
